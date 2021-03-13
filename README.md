@@ -1,2 +1,2 @@
-# Na-ve-Bayes-Classifier-Not-using-builtin-function-on-Abalone-Dataset
-Wrote Naïve Bayes Classifier from scratch on Abalone Dataset as a Machine Learning Course Assignment
+# Naive-Bayes-Classifier-Not-using-builtin-NB_Model-on-Abalone-Dataset
+Wrote Naive Bayes Classifier from scratch on Abalone Dataset as a Machine Learning Course Assignment
